@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-hi i am Savita from ittangihal
-=======
-hi i am Savita from vijayapur
->>>>>>> Stashed changes
+hi i am pooja hiii
