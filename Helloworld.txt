@@ -1,5 +1,4 @@
 <<<<<<< Updated upstream
 most widely used modern version control system
 =======
-hi i am Savita from vijayapur
->>>>>>> Stashed changes
+hi i am Savita from vijayapur city
