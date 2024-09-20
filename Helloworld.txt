@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 hi i am savita
+=======
+hi i am Savita from vijayapur
+>>>>>>> Stashed changes
